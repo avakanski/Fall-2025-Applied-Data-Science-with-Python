@@ -36,7 +36,7 @@ Upon the completion of the course, the students should demonstrate the ability t
 
 Prerequisites
 ~~~~~~~~~~~~~~~
-TThe course requires basic programming skills in Python. Prior knowledge of data science methods is beneficial but not required.
+The course requires basic programming skills in Python. Prior knowledge of data science methods is beneficial but not required.
 
 Grading
 ~~~~~~~~~~~~
@@ -46,7 +46,7 @@ Student assessment will be based on 6 homework assignments (worth 45 pts), 6 qui
 Lectures
 ============
 
-toctree::
+.. toctree::
    :caption: Theme 1 - Python Programming
    :maxdepth: 2
 
