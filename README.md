@@ -19,6 +19,7 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
+
 The lectures will be added after they are covered in the course.
 
 ## Course Description
