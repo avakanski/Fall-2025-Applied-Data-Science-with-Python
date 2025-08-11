@@ -14,6 +14,11 @@ Semester: Fall 2025 (August 25 – December 19)
 *GitHub repository*: <https://github.com/avakanski/Fall-2025-Applied-Data-Science-with-Python/blob/main/README.md>
 
 ## Lectures:
+### Theme 1: Python Programming
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
+* <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
 The lectures will be added after they are covered in the course.
 
 ## Course Description
