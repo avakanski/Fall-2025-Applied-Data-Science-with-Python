@@ -46,4 +46,13 @@ Student assessment will be based on 6 homework assignments (worth 45 pts), 6 qui
 Lectures
 ============
 
+toctree::
+   :caption: Theme 1 - Python Programming
+   :maxdepth: 2
+
+   Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb
+   Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb
+   Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb
+   Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb
+
 The lectures will be added after covered in the course.
