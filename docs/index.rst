@@ -47,6 +47,11 @@ Lectures
 ============
 
 .. toctree::
+   :caption: Lecture 1 - Short History of AI
+
+   pdf_link_lecture1
+
+.. toctree::
    :caption: Theme 1 - Python Programming
    :maxdepth: 2
 
