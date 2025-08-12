@@ -13,7 +13,8 @@ Semester: Fall 2025 (August 25 – December 19)
 
 *GitHub repository*: <https://github.com/avakanski/Fall-2025-Applied-Data-Science-with-Python/blob/main/README.md>
 
-## Lectures:
+## Lectures
+* <a href="docs/Lectures/Lecture_1-A_Short_History_of_AI/Lecture_1-A_Short_History_of_AI.pdf">Lecture 1 - A Short History and Current State of Artificial Intelligence</a>
 ### Theme 1: Python Programming
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_2-Data_Types_in_Python/Lecture_2-Data_Types.ipynb">Lecture 2 - Data Types in Python</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
