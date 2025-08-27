@@ -60,4 +60,10 @@ Lectures
    Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb
    Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb
 
+.. toctree::
+   :caption: Tutorials
+   :maxdepth: 2
+
+   Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
+
 The lectures will be added after covered in the course.
