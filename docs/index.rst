@@ -65,5 +65,6 @@ Lectures
    :maxdepth: 2
 
    Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
+   Lectures/Tutorials/Tutorial_3-VS_Code/Tutorial_3-VS_Code.ipynb
 
 The lectures will be added after covered in the course.
