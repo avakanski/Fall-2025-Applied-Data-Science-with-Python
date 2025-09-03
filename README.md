@@ -22,6 +22,7 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
+* <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
 
 The lectures will be added after they are covered in the course.
 
