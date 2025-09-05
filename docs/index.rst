@@ -61,6 +61,17 @@ Lectures
    Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb
 
 .. toctree::
+   :caption: Theme 2 - Data Engineering Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb
+   Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb
+
+.. toctree::
    :caption: Tutorials
    :maxdepth: 2
 
