@@ -20,6 +20,13 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_3-Statements,_Files/Lecture_3-Statements,_Files.ipynb">Lecture 3 - Statements, Files</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_4-Functions,_Iterators/Lecture_4-Functions,_Iterators.ipynb">Lecture 4 - Functions, Iterators</a>
 * <a href="docs/Lectures/Theme_1-Python_Programming/Lecture_5-OOP,_Modules,_Packages/Lecture_5-OOP,_Modules,_Packages.ipynb">Lecture 5 - Object-Oriented Programming, Modules, Packages</a>
+### Theme 2: Data Engineering Pipelines
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_6-NumPy/Lecture_6-NumPy.ipynb">Lecture 6 - NumPy for Array Operations</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_7-Pandas/Lecture_7-Pandas.ipynb"> Lecture 7 - Data Manipulation with Pandas</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_8-Matplotlib/Lecture_8-Matplotlib.ipynb"> Lecture 8 - Data Visualization with Matplotlib</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb"> Lecture 9 - Data Visualization with Seaborn</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb"> Lecture 10 - Databases and SQL</a>
+* <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb"> Lecture 11 - Data Exploration and Preprocessing</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
