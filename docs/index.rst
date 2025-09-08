@@ -77,5 +77,6 @@ Lectures
 
    Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb
    Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb
+   Lectures/Tutorials/Tutorial_3-Terminal_and_Command_Line/Tutorial_3-Terminal_and_Command_Line.ipynb
 
 The lectures will be added after covered in the course.
