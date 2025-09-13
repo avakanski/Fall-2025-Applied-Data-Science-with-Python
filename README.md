@@ -3,7 +3,7 @@
 
 Instructor: [Alex Vakanski](https://www.webpages.uidaho.edu/vakanski/index.html) (vakanski@uidaho.edu)
 
-Teaching Assistant: TBD
+Teaching Assistant: Yugandhar Kasala Sreenivasulu
 
 Semester: Fall 2025 (August 25 – December 19)
 
