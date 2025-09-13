@@ -3,7 +3,7 @@ CS 4622/5622 – Applied Data Science with Python
 
 | `University of Idaho <https://www.uidaho.edu>`_ - `Department of Computer Science <https://www.uidaho.edu/engr/departments/cs>`_
 | Instructor: `Alex Vakanski <https://www.webpages.uidaho.edu/vakanski/index.html>`_ (vakanski@uidaho.edu)
-| Teaching Assistant: TBD
+| Teaching Assistant: Yugandhar Kasala Sreenivasulu
 | Semester: Fall 2025 (August 25 – December 19)
 | *Course website*: https://fall-2025-applied-data-science-with-python.readthedocs.io/en/latest/
 | *GitHub repository*: https://www.github.com/avakanski/Fall-2025-Applied-Data-Science-with-Python/blob/main/README.md
