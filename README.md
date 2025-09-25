@@ -32,6 +32,7 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_3-Terminal_and_Command_Line/Tutorial_3-Terminal_and_Command_Line.ipynb">Tutorial 3 - Terminal and Command Line</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb">Tutorial 4 - Virtual Environments</a>
+* <a href="docs/Lectures/Tutorials/Tutorial_5-Google_Colab/Tutorial_5-Google_Colab.ipynb">Tutorial 5 - Google Colab</a>
 
 The lectures will be added after they are covered in the course.
 
