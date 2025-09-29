@@ -27,6 +27,9 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_9-Seaborn/Lecture_9-Seaborn.ipynb"> Lecture 9 - Data Visualization with Seaborn</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_10-SQL/Lecture_10-SQL.ipynb"> Lecture 10 - Databases and SQL</a>
 * <a href="docs/Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb"> Lecture 11 - Data Exploration and Preprocessing</a>
+### Theme 3: Model Engineering Pipelines
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_12-Scikit-Learn/Lecture_12-Scikit-Learn.ipynb"> Lecture 12 - Scikit-Learn Library for Data Science</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Ensemble_Methods/Lecture_13-Ensemble_Methods.ipynb"> Lecture 13 - Ensemble Methods</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
