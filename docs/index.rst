@@ -72,6 +72,13 @@ Lectures
    Lectures/Theme_2-Data_Engineering/Lecture_11-Data_Exploration/Lecture_11-Data_Exploration_and_Preprocessing.ipynb
 
 .. toctree::
+   :caption: Theme 3 - Model Engineering Pipelines
+   :maxdepth: 2
+
+   Lectures/Theme_3-Model_Engineering/Lecture_12-Scikit-Learn/Lecture_12-Scikit-Learn.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_13-Ensemble_Methods/Lecture_13-Ensemble_Methods.ipynb
+
+.. toctree::
    :caption: Tutorials
    :maxdepth: 2
 
