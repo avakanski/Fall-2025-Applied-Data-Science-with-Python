@@ -87,5 +87,6 @@ Lectures
    Lectures/Tutorials/Tutorial_3-Terminal_and_Command_Line/Tutorial_3-Terminal_and_Command_Line.ipynb
    Lectures/Tutorials/Tutorial_4-Virtual_Environments/Tutorial_4-Virtual_Environments.ipynb
    Lectures/Tutorials/Tutorial_5-Google_Colab/Tutorial_5-Google_Colab.ipynb
+   Lectures/Tutorials/Tutorial_6-Image_Processing/Tutorial_6-Image_Processing.ipynb
 
 The lectures will be added after covered in the course.
