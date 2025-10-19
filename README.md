@@ -30,6 +30,10 @@ Semester: Fall 2025 (August 25 – December 19)
 ### Theme 3: Model Engineering Pipelines
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_12-Scikit-Learn/Lecture_12-Scikit-Learn.ipynb"> Lecture 12 - Scikit-Learn Library for Data Science</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_13-Ensemble_Methods/Lecture_13-Ensemble_Methods.ipynb"> Lecture 13 - Ensemble Methods</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_14-ANNs/Lecture_14-ANNs.ipynb"> Lecture 14 - Artificial Neural Networks with Keras-TensorFlow</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_15-ConvNets/Lecture_15-ConvNets.ipynb"> Lecture 15 - Convolutional Neural Networks with Keras-TensorFlow</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_16-Model_Selection/Lecture_16-Model_Selection.ipynb"> Lecture 16 - Model Selection, Hyperparameter Tuning</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_17-NNs_with_PyTorch/Lecture_17-NNs_with_PyTorch.ipynb"> Lecture 17 - Artificial Neural Networks with PyTorch</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
