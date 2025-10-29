@@ -80,7 +80,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_14-ANNs/Lecture_14-ANNs.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_15-ConvNets/Lecture_15-ConvNets.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_16-Model_Selection/Lecture_16-Model_Selection.ipynb
-   Lectures/Theme_3-Model_Engineering/Lecture_17-NNs_with_PyTorch/Lecture_17-NNs_with_PyTorch.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_17-ANNs_with_PyTorch/Lecture_17-ANNs_with_PyTorch.ipynb
 
 .. toctree::
    :caption: Tutorials
