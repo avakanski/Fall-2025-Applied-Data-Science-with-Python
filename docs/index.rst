@@ -97,5 +97,6 @@ Lectures
    Lectures/Tutorials/Tutorial_6-Image_Processing/Tutorial_6-Image_Processing.ipynb
    Lectures/Tutorials/Tutorial_7-TensorFlow/Tutorial_7-TensorFlow,TensorFlow_DataSets.ipynb
    Lectures/Tutorials/Tutorial_8-PyTorch/Tutorial_8-PyTorch.ipynb
+   Lectures/Tutorials/Tutorial_9-GitHub/Tutorial_9-GitHub.ipynb
 
 The lectures will be added after covered in the course.
