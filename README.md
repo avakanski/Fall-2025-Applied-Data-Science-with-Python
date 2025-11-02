@@ -46,6 +46,7 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Tutorials/Tutorial_6-Image_Processing/Tutorial_6-Image_Processing.ipynb">Tutorial 6 - Image Processing with Python</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_7-TensorFlow/Tutorial_7-TensorFlow,TensorFlow_DataSets.ipynb">Tutorial 7 - TensorFlow, TensorFlow Datasets</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_8-PyTorch/Tutorial_8-PyTorch.ipynb">Tutorial 8 - PyTorch</a>
+* <a href="docs/Lectures/Tutorials/Tutorial_9-GitHub/Tutorial_9-GitHub.ipynb">Tutorial 9 - GitHub</a>
 
 The lectures will be added after they are covered in the course.
 
