@@ -99,5 +99,6 @@ Lectures
    Lectures/Tutorials/Tutorial_7-TensorFlow/Tutorial_7-TensorFlow,TensorFlow_DataSets.ipynb
    Lectures/Tutorials/Tutorial_8-PyTorch/Tutorial_8-PyTorch.ipynb
    Lectures/Tutorials/Tutorial_9-GitHub/Tutorial_9-GitHub.ipynb
+   Lectures/Tutorials/Tutorial_10-Docker_Containers/Tutorial_10-Docker_Containers.ipynb
 
-The lectures will be added after covered in the course.
+
