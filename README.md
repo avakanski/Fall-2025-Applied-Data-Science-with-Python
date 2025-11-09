@@ -50,7 +50,6 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Tutorials/Tutorial_9-GitHub/Tutorial_9-GitHub.ipynb">Tutorial 9 - GitHub</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_10-Docker_Containers/Tutorial_10-Docker_Containers.ipynb">Tutorial 10 - Docker Containers</a>
 
-The lectures will be added after they are covered in the course.
 
 ## Course Description
 The course introduces students to Python tools and libraries commonly used by organizations for managing the phases in the life cycle of Data Science projects. The content is divided into four main themes. The first theme reviews the fundamentals of Python programming. The second theme focuses on data engineering and explores Python tools for data collection, exploration, and visualization. The next theme covers model engineering and includes topics related to model design, selection, and evaluation for image processing, natural language processing, and time series analysis. This theme also introduces recent advances in large language models, multi-modal models, and agentic AI systems. The last theme focuses on Data Science Operations (DSOps) and encompasses techniques for model serving, performance monitoring, diagnosis, and reproducibility of data science projects deployed in production. Throughout the course, students will gain hands-on experience with various Python libraries for Data Science workflow management. Additional work is required for graduate credit.
