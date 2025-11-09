@@ -44,6 +44,9 @@ master_doc = 'index'
 
 highlight_language = 'python3'
 
+# Disable notebook execution during build
+nbsphinx_execute = 'never'
+
 nbsphinx_execute_arguments = [
     "--InlineBackend.figure_formats={'svg', 'pdf'}",
     "--InlineBackend.rc={'figure.dpi': 96}",
