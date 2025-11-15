@@ -38,6 +38,7 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_19-Transformer_Networks/Lecture_19-Transformer_Networks.ipynb"> Lecture 19 - Transformer Networks</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-NLP_with_Hugging_Face/Lecture_20-NLP_with_Hugging_Face.ipynb"> Lecture 20 - NLP with Hugging Face</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-LLMs/Lecture_21-LLMs.ipynb"> Lecture 21 - Large Language Models</a>
+* <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb"> Lecture 22 - Large Language Models (Part 2)</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
