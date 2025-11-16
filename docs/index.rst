@@ -85,6 +85,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_19-Transformer_Networks/Lecture_19-Transformer_Networks.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_20-NLP_with_Hugging_Face/Lecture_20-NLP_with_Hugging_Face.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_21-LLMs/Lecture_21-LLMs.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb
 
 .. toctree::
    :caption: Tutorials
