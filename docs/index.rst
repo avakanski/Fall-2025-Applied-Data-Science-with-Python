@@ -88,6 +88,13 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb
 
 .. toctree::
+   :caption: Theme 4 - Model Deployment Pipelines
+   :maxdepth: 2
+
+   pdf_link_lecture25
+   Lectures/Theme_4-Model_Deployment/Lecture_26-Deploying_to_Web/Lecture_26-Deploying_to_Web.ipynb
+
+.. toctree::
    :caption: Tutorials
    :maxdepth: 2
 
