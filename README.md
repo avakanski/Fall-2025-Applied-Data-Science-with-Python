@@ -39,6 +39,9 @@ Semester: Fall 2025 (August 25 – December 19)
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_20-NLP_with_Hugging_Face/Lecture_20-NLP_with_Hugging_Face.ipynb"> Lecture 20 - NLP with Hugging Face</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_21-LLMs/Lecture_21-LLMs.ipynb"> Lecture 21 - Large Language Models</a>
 * <a href="docs/Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb"> Lecture 22 - Large Language Models (Part 2)</a>
+## Theme 4: Model Deployment Pipelines
+* <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_25-DSOps/Lecture_25-DSOps.pdf"> Lecture 25 - Introduction to Data Science Operations (DSOps)</a>
+* <a href="docs/Lectures/Theme_4-Model_Deployment/Lecture_26-Deploying_to_Web/Lecture_26-Deploying_to_Web.ipynb"> Lecture 26 - Deploying Projects as Web Applications</a>
 ## Tutorials
 * <a href="docs/Lectures/Tutorials/Tutorial_1-Jupyter_Notebooks/Tutorial_1-Jupyter_Notebooks.ipynb">Tutorial 1 - Jupyter Notebooks</a>
 * <a href="docs/Lectures/Tutorials/Tutorial_2-VS_Code/Tutorial_2-VS_Code.ipynb">Tutorial 2 - Python IDEs, VS Codes</a>
