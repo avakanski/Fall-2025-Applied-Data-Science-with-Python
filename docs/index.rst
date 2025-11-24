@@ -86,6 +86,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_20-NLP_with_Hugging_Face/Lecture_20-NLP_with_Hugging_Face.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_21-LLMs/Lecture_21-LLMs.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_23-Reasoning_Models/Lecture_23-Reasoning_Models.ipynb
 
 .. toctree::
    :caption: Theme 4 - Model Deployment Pipelines
