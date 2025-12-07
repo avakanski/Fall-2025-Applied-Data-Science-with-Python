@@ -25,7 +25,7 @@ extensions = [
 ]
 
 # Exclude patterns
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '**/*.pdf']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -54,20 +54,6 @@ nbsphinx_execute_arguments = [
     "--InlineBackend.figure_formats={'svg', 'pdf'}",
     "--InlineBackend.rc={'figure.dpi': 96}",
 ]
-
-# -- Options for LaTeX output
-latex_engine = 'pdflatex'
-latex_documents = [
-    (master_doc, 'fall-2025-applied-data-science-with-python.tex', 
-     'Fall 2025 Applied Data Science with Python',
-     'Alex Vakanski', 'manual'),
-]
-
-latex_elements = {
-    'papersize': 'letterpaper',
-    'pointsize': '10pt',
-    'figure_align': 'htbp',
-}
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
