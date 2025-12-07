@@ -87,6 +87,7 @@ Lectures
    Lectures/Theme_3-Model_Engineering/Lecture_21-LLMs/Lecture_21-LLMs.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_22-LLMs_Part_2/Lecture_22-LLMs_Part_2.ipynb
    Lectures/Theme_3-Model_Engineering/Lecture_23-Reasoning_Models/Lecture_23-Reasoning_Models.ipynb
+   Lectures/Theme_3-Model_Engineering/Lecture_24-Agentic_AI//Lecture_24-Agentic_AI.ipynb
 
 .. toctree::
    :caption: Theme 4 - Model Deployment Pipelines
