@@ -24,6 +24,9 @@ extensions = [
     'sphinx_gallery.load_style',
 ]
 
+# Exclude patterns
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '**/*.pdf']
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
